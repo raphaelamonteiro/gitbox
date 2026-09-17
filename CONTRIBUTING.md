@@ -56,7 +56,7 @@
 - Explain why the change was made.
 - Include any relevant screenshots or examples.
 
- You can also check the [PR template()].
+ You can also check the [PR Template](PR-TEMPLATE.md).
 
  Please be respectful and constructive when reviewing or discussing contributions.
 
